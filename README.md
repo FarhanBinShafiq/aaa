@@ -1,4 +1,3 @@
- 
 <div style="display: flex; padding: 5px;">
   <a href="https://arced.foundation/" style="background-color: #2ea44f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">Website</a>
   <a href="https://github.com/ARCED-Foundation" style="background-color: #2ea44f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">Github</a>
@@ -7,10 +6,8 @@
   <a href="https://arced.foundation/project.php" style="background-color: #2ea44f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Projects</a>
 </div>
 
-<br><br><br><br>
-
-<div style="width: 800px; height: 400px;    display: flex; justify-content: center; align-items: center; color: white; font-size: 18px; border-radius: 0 0 10px 10px;">
- <p style="padding: 20px;">
+<div style="width: 600px; height: 300px;    display: flex; justify-content: center; align-items: center; color: white; font-size: 18px; border-radius: 0 0 10px 10px;">
+ <p>
      Aureolin Research, Consultancy, and Expertise Development (ARCED) Foundation is registered in Bangladesh under the Society Registration Act, 1860 at the RJSC and started its operation in 2013. ARCED Foundation collaborates with national and international organizations, agencies, institutions, and academicians to implement experimental, quasi-experimental, and non-experimental research.
 
   Most of the research and studies that ARCED carried out were methodologically embedded in Randomized Controlled Trials (RCT), quasi-experimental methods, cross-sectional design, Most Significant Changes for qualitative analysis, and approaches following either or a mixture of simple random, stratified, clusters or systematic sampling. Almost all of its studies involve statistical and econometrics tools and models using Stata, SPSS, Python, or R along with Google Sheets, MS Excel, and Access for basic data management. ARCED has part-time and full-time in-house professionals as well as a professional setup to secure experts from outside – that entails both national and international professionals.
