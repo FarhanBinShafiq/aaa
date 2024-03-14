@@ -1,9 +1,4 @@
-<div style="width: 800px; height: 100px; background-color:#0a2e6f; display: flex; justify-content: center; align-items: center; color: white; font-size: 24px; border-radius: 10px 10px 0 0;">
-  ARCED Foundation
-</div>
-
-<br><br><br><br>
-
+ 
 <div style="display: flex; padding: 5px;">
   <a href="https://arced.foundation/" style="background-color: #2ea44f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">Website</a>
   <a href="https://github.com/ARCED-Foundation" style="background-color: #2ea44f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">Github</a>
@@ -31,7 +26,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./assets/css.png" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./assets/html.png" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/js.png" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./assets/sql.png" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/python.jpeg" alt="python" width="40" height="40"/> </a> 
  
   
