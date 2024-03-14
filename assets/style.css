@@ -1,6 +1,6 @@
-
 body {
-    background-color: #ffffff; /* Your desired background color */
-    font-family: Arial, sans-serif; /* Your preferred font stack */
-    color: #333333; /* Your desired text color */
+    background-color: #ffffff; /* Change to your preferred color */
+    background-image: url('path/to/your/image.jpg'); /* Optionally, set a background image */
+    background-size: cover; /* Adjust according to your image preferences */
+    /* Add any other background properties as needed */
 }
