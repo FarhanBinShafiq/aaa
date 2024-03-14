@@ -3,3 +3,6 @@ logo: ./assets/logo.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-hacker
+layout: default
+css: /assets/external.css
+
