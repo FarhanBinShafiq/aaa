@@ -1,6 +1,4 @@
----
-layout: default
----
+ 
 ## Some Markdown Content
 <link rel="stylesheet" type="text/css" href="/assets/style.css">
 <body style="background-color:white!important;">
