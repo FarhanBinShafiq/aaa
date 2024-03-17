@@ -1,7 +1,7 @@
  
-## Some Markdown Content
-<link rel="stylesheet" type="text/css" href="/assets/style.css">
-<body style="background-color:white!important;">
+ 
+ 
+<body >
 <div style="display: flex; padding: 5px;">
   <a href="https://arced.foundation/" style="background-color: #2ea44f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">Website</a>
   <a href="https://github.com/ARCED-Foundation" style="background-color: #2ea44f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">Github</a>
