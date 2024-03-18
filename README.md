@@ -6,6 +6,10 @@
   <a href="https://arced.foundation/publication.php" style="background-color: #2ea44f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">Publication</a>
   <a href="https://arced.foundation/project.php" style="background-color: #2ea44f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Projects</a>
 </div>
+<div style="text-align: center;">
+  <h1 style="color: navy; font-weight: bold; display: inline;">Welcome to Arced Foundation!</h1>
+  <p style="color:navy">Think Change,Think Data</p>
+</div>
 
 <div style="width: 900px; height: 600px;    display: flex; justify-content: center; align-items: center; color: #b32c2c; font-size: 18px; border-radius: 0 0 10px 10px;">
  <p>
@@ -157,5 +161,119 @@
 </footer>
 
 </body>
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Coinflip Repository Card -->
+  <div style="width: calc(50% - 20px); background-color: #ffffff; color: #1a1a1a; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)';">
+    <div style="padding: 20px;">
+      <h3 style="margin: 0;color:red">Coinflip</h3>
+      <p style="margin: 10px 0 0;">A SurveyCTO Field plug-in for coin flip simulation and randomly record a value.</p>
+    </div>
+    <div style="padding: 20px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <div>
+          <span style="background-color: #2ea44f; color: white; padding: 5px 10px; border-radius: 5px;">JS, CSS</span>
+          <span style="margin-left: 7px;">Stars: 2</span>
+          <span style="margin-left: 7px;">Forks: 0</span>
+        </div>
+        <a href="https://github.com/ARCED-Foundation/coinflip" style="text-decoration: none; color: #2ea44f; font-weight: bold;">View Repository</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Catigen Repository Card -->
+  <div style="width: calc(50% - 20px); background-color: #ffffff; color: #1a1a1a; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)';">
+    <div style="padding: 20px;">
+      <h3 style="margin: 0;color:red">Catigen</h3>
+      <p style="margin: 10px 0 0;">A Stata command to automatically generate SurveyCTO advanced CATI from a SurveyCTO CAPI.</p>
+    </div>
+    <div style="padding: 20px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <div>
+          <span style="background-color: #2ea44f; color: white; padding: 5px 10px; border-radius: 5px;">Stata, Tex</span>
+          <span style="margin-left: 7px;">Stars: 2</span>
+          <span style="margin-left: 7px;">Forks: 1</span>
+        </div>
+        <a href="https://github.com/ARCED-Foundation/catigen" style="text-decoration: none; color: #2ea44f; font-weight: bold;">View Repository</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Odkmerge Repository Card -->
+  <div style="width: calc(50% - 20px); background-color: #ffffff; color: #1a1a1a; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)';">
+    <div style="padding: 20px;">
+      <h3 style="margin: 0;color:red">Odkmerge</h3>
+      <p style="margin: 10px 0 0;">A Stata module to merge selected variables from the parent file to the children files generated from ODK or SurveyCTO.</p>
+    </div>
+    <div style="padding: 20px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <div>
+          <span style="background-color: #2ea44f; color: white; padding: 5px 10px; border-radius: 5px;">Stata, Tex</span>
+          <span style="margin-left: 7px;">Stars: 3</span>
+          <span style="margin-left: 7px;">Forks: 0</span>
+        </div>
+        <a href="https://github.com/ARCED-Foundation/odkmerge" style="text-decoration: none; color: #2ea44f; font-weight: bold;">View Repository</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Odksplit Repository Card -->
+  <div style="width: calc(50% - 20px); background-color: #ffffff; color: #1a1a1a; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)';">
+    <div style="padding: 20px;">
+      <h3 style="margin: 0;color:red">Odksplit</h3>
+      <p style="margin: 10px 0 0;">Odksplit is a Stata module to label the variables, assign corresponding value labels, and split and label multiple response variables generated from ODK.</p>
+    </div>
+    <div style="padding: 20px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <div>
+          <span style="background-color: #2ea44f; color: white; padding: 5px 10px; border-radius: 5px;">Stata, Tex</span>
+          <span style="margin-left: 7px;">Stars: 2</span>
+          <span style="margin-left: 7px;">Forks: 1</span>
+        </div>
+        <a href="https://github.com/ARCED-Foundation/odksplit" style="text-decoration: none; color: #2ea44f; font-weight: bold;">View Repository</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Integer-placeholder Repository Card -->
+  <div style="width: calc(50% - 20px); background-color: #ffffff; color: #1a1a1a; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)';">
+    <div style="padding: 20px;">
+      <h3 style="margin: 0;color:red">Integer-placeholder</h3>
+      <p style="margin: 10px 0 0;">A simple replacement for the default integer field with dynamic input text in the placeholder.</p>
+    </div>
+    <div style="padding: 20px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <div>
+          <span style="background-color: #2ea44f; color: white; padding: 5px 10px; border-radius: 5px;">JS</span>
+          <span style="margin-left: 7px;">Stars: 0</span>
+          <span style="margin-left: 7px;">Forks: 0</span>
+        </div>
+        <a href="https://github.com/ARCED-Foundation/integer-placeholder" style="text-decoration: none; color: #2ea44f; font-weight: bold;">View Repository</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Translation-tables Repository Card -->
+  <div style="width: calc(50% - 20px); background-color: #ffffff; color: #1a1a1a; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0px 8px 20px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0px 4px 10px rgba(0, 0, 0, 0.1)';">
+    <div style="padding: 20px;">
+      <h3 style="margin: 0;color:red">Translation-tables</h3>
+      <p style="margin: 10px 0 0;">This repo contains translations for SurveyCTO web form components.</p>
+    </div>
+    <div style="padding: 20px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <div>
+          <span style="background-color: #2ea44f; color: white; padding: 5px 10px; border-radius: 5px;">Language</span>
+          <span style="margin-left: 7px;">Stars: 0</span>
+          <span style="margin-left: 7px;">Forks: 0</span>
+        </div>
+        <a href="https://github.com/ARCED-Foundation/translation-tables" style="text-decoration: none; color: #2ea44f; font-weight: bold;">View Repository</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
 
 
