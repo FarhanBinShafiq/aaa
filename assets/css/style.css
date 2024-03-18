@@ -87,8 +87,8 @@
 body {
     margin: 0;
     padding: 0;
-    background: #151515 url("../logo.png") 0 0;
-    color: #eaeaea;
+    background: #fff url("../assets/images/one.png") 0 0;
+    color: black;
     font-size: 16px;
     line-height: 1.5;
     font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace
