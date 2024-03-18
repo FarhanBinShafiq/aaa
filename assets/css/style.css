@@ -153,7 +153,8 @@ header h2 {
 #downloads .btn {
     display: inline-block;
     text-align: center;
-    margin: 0
+    margin: 0;
+    display:none;
 }
 
 #main_content {
