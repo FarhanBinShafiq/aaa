@@ -1,15 +1,10 @@
+<head>
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+</head>
 <body>
 <section class="home" id="home">
 <div id="particles-js"></div>
-<div class="content">
-            <img class="tilt" src="images/profile.jpg" alt="">
-            <h3> MD.<span>Farhan Bin Shafiq</span> </h3>
-            <p> I am a <span class="typing-text"> Mern Stack Developer </span> </p>
-            <a href="#about" class="btn">about me</a>
-            <a href="https://drive.google.com/file/d/1Nz2hGXIVs9RRV9kMom4HX1hQvjSTX02-/view?usp=share_link" class="btn">download CV</a>
-        </div>
-
+ 
  </section>
 
 
