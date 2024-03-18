@@ -2,7 +2,7 @@
 <h1 style="color: navy; font-weight: bold; display: inline;">Welcome to Arced Foundation!</h1>
 <p style="color:navy">Think Change,Think Data</p>
   
-<div style="width: 900px; height: 400px;    display: flex; justify-content: center; align-items: center; color: #b32c2c; font-size: 18px; border-radius: 0 0 10px 10px;">
+<div style="width: 900px; height: 400px;    display: flex; justify-content: center; align-items: center; color: black; font-size: 18px; border-radius: 0 0 10px 10px;">
 
   <p>
      Aureolin Research, Consultancy, and Expertise Development (ARCED) Foundation is registered in Bangladesh under the Society Registration Act, 1860 at the RJSC and started its operation in 2013. ARCED Foundation collaborates with national and international organizations, agencies, institutions, and academicians to implement experimental, quasi-experimental, and non-experimental research.
