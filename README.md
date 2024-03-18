@@ -145,14 +145,12 @@
 
 </div>
 
-<div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f5f5f5;">
+ 
 <div style="max-width: 800px; margin: 20px auto; padding: 20px; background-color: #fff; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   <h1 style="color: #333; text-align: center;">Data Collection and Quality Control</h1>
   <p style="color: #666; margin-bottom: 20px;">To ensure the highest level of data quality and security, we use digital tablets to collect the data, as they enable a quick survey turnaround time, minimize data entry errors and ensure automated data security. ARCED has extensive experience and expertise in Open Data Kit (ODK) based surveys as well as SurveyCTO/ODK based recourses development. ODK/SurveyCTO allows automatic checking for consistency and constraints which will reduce the data entry error. We sometimes use a false launch pilot to assess the capacity of each field staff member to perform the tasks in a real-life context. The false launch pilot also serves as an opportunity to fine-tune some of the questions and SurveyCTO codes. Aside from that, based on project characteristics we start with soft-launch where the surveys start from a smaller scale and we take time to identify the best strategy to launch the surveys at full scale. We employ a number of methods in maintaining data quality and security that are implemented before, during, and after the surveys.</p>
-  <div style="background-color: #ffffcc; padding: 10px; border-radius: 5px;">
-    <p style="margin: 0;"><strong>Note:</strong> This text emphasizes the methods employed for data collection and quality control.</p>
-  </div>
-</div>
+  
+ 
 </div>
  
 <footer style="background-color: #0a2e6f; color: white; padding: 20px; text-align: center;">
