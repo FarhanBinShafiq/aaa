@@ -207,16 +207,6 @@ dt {
     font-weight: bold
 }
 
-style attribute {
-    width: 600px;
-    height: 300px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: black;
-    font-size: 12px;
-    border-radius: 0 0 10px 10px;
-}
 
 ul li {
     list-style-image: url("../images/bullet.png")
