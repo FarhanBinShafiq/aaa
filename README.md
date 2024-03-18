@@ -1,10 +1,7 @@
  
 <body>
 <section class="home" id="home">
-<div id="particles-js"></div>
- 
- </section>
-
+  
 
 <h1 style="color: navy; font-weight: bold; display: inline;">Welcome to Arced Foundation!</h1>
 <p style="color:navy">Think Change,Think Data</p>
@@ -172,19 +169,7 @@
       <a href="https://www.linkedin.com/company/aarced/?originalSubdomain=bd" style="color: white; text-decoration: none; margin-right: 10px;">LinkedIn</a>
     </div>
   </footer>
- <!-- javascript part  -->
-
-    <!-- typed.js link  -->
-   <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
-
-    <!-- particles.js links  -->
-   <script src="js/particles.min.js"></script>
   
-
-    <!-- vanilla-tilt.js link  -->
-   <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js"></script>
-
- 
 
 </body>
 
