@@ -87,11 +87,11 @@
 body {
     margin: 0;
     padding: 0;
-    background: #fff url("../assets/images/one.png") 0 0;
+    background-image: url("../assets/images/one.png") ;
     color: black;
     font-size: 16px;
     line-height: 1.5;
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Railway', sans-serif;
 }
 
 .container {
@@ -126,7 +126,7 @@ header h1 {
     line-height: 1.5;
     margin: 0 0 0 -40px;
     font-weight: bold;
-   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: 'Railway', sans-serif;
     color:#151613;
     text-shadow: 0 1px 1px rgba(0,0,0,0.1),0 0 5px rgba(181,232,83,0.1),0 0 10px rgba(181,232,83,0.1);
     letter-spacing: -1px;
@@ -168,7 +168,7 @@ section img {
 
 h1,h2,h3,h4,h5,h6 {
     font-weight: normal;
- font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-family: 'Railway', sans-serif;
     color: #b5e853;
     letter-spacing: -0.03em;
     text-shadow: 0 1px 1px rgba(0,0,0,0.1),0 0 5px rgba(181,232,83,0.1),0 0 10px rgba(181,232,83,0.1)
@@ -271,7 +271,7 @@ hr {
     border-bottom: 2px solid rgba(0,0,0,0.7);
     border-top: 2px solid #000;
     color: rgba(255,255,255,0.8);
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: 'Railway', sans-serif;
     font-weight: bold;
     font-size: 13px;
     text-decoration: none;
