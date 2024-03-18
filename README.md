@@ -144,7 +144,7 @@
 </div>
 
 
-</div>
+ 
 
 <footer style="background-color: #0a2e6f; color: white; padding: 20px; text-align: center;">
   <p>&copy; 2024 ARCED Foundation. All rights reserved.</p>
