@@ -22,11 +22,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Dummy options added -->
-  <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="./assets/stata.png" alt="stata" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./assets/css.png" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./assets/html.png" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/js.png" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/python.jpeg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="./assets/images/stata.png" alt="stata" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./assets/images/css.png" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./assets/images/html.png" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/images/js.png" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/images/python.jpeg" alt="python" width="40" height="40"/> </a> 
 </p>
 
 <h2>GitHub Repositories</h2>
